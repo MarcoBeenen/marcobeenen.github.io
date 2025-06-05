@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marcobeenen.github.io/sitemap.xml
